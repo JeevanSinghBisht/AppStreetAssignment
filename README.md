@@ -15,7 +15,7 @@ mongodb version : v4.2.1
 
 ### Installing
     ### For Code:
-        1) clone the project from github.
+        1) clone the project from github. URL : https://github.com/JeevanSinghBisht/AppStreetAssignment.git
         2) Go to root of dircetory look for package.json file;
         3) run command 
            # npm install --save OR npm i --save
